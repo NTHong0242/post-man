@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/NTHong0242/post-man/assets/96609863/b9be90b2-0eff-433c-aefe-7e48fdc93976"><img width="960" alt="image" src="https://github.com/NTHong0242/post-man/assets/96609863/00b53516-118b-4116-adc0-77491ef890a6"># post-man
+# post-man
 **Tóm tắt**
   Tổng số test: 3
   Test thành công: 2
@@ -16,4 +16,4 @@ Thành công
   Status code is 200
   Content-Type is present
 
-  
+  <img width="960" alt="image" src="https://github.com/NTHong0242/post-man/assets/96609863/b9be90b2-0eff-433c-aefe-7e48fdc93976">
